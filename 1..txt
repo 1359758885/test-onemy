@@ -1,0 +1,11 @@
+1111
+1. git add .                    --> 添加到暂存区
+2. git commit -m '提交说明'      --> 提交到仓库区
+3. git log
+4. git log --oneline
+5. git reflog
+6. git reflog --oneline
+7. git checkout （+log出来的编码/跳转分支）
+8. git branch      --> 显示所有的分支
+9. git branch dev  --> 创建dev分支
+10.git merge dev   --> 合并分支到master(1.快速模式 2.合并模式)
